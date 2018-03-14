@@ -27,5 +27,3 @@ php -S localhost:8000
 ## 截图
 ![webim](https://github.com/kesixin/Chatroom/blob/master/%E6%95%88%E6%9E%9C.jpg)
 
-## License
-MIT
