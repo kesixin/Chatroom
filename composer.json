@@ -1,0 +1,22 @@
+{
+    "name": "moell/webim",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moell",
+            "email": "moell91@foxmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "WebIM\\": "src/"
+        }
+    },
+    "require-dev": {
+        "eaglewu/swoole-ide-helper": "dev-master"
+    }
+}
