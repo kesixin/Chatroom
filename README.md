@@ -27,6 +27,6 @@ php -S localhost:8000
 ## 截图
 ![webim](https://github.com/kesixin/Chatroom/blob/master/%E6%95%88%E6%9E%9C.jpg)
 
-##项目测试地址
-http://test.kesixin.xin/
+## 项目测试地址
+http://test.kesixin.xin/ ，由于没开启端口，可能无法运行，需要请联系！
 
