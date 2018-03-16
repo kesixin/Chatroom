@@ -1,4 +1,4 @@
-## Chatroom
+## Chatroom 如果本项目对您有帮助，欢迎点击Star一下！！！
 PHP + Swoole 开发的简单聊天室demo, 主要是 websockt 的应用 。
 
 ## 环境要求
